@@ -1,7 +1,7 @@
 # Excel & Kickstarter
 Using Excel to organize &amp; analyze Kickstarter campaigns
 
-Used Excel Skills including:
+Excel Skills Used:
 - Conditional formatting
 - Formulas, including COUNTIFS()
 - Splitting columns
